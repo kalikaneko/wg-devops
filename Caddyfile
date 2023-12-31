@@ -1,0 +1,5 @@
+wg.example.tld {
+  tls email admin@example.tld
+  reverse_proxy wg-easy:51821
+}
+

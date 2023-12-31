@@ -1,0 +1,3 @@
+WG_DOMAIN=wg.example.tld
+WG_PASSWORD=secret
+WG_HOST=1.1.1.1
